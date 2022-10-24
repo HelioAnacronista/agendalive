@@ -3,3 +3,11 @@
     padding-left: 2%;
     padding-right: 2%;
 }
+
+.div-layout {
+    padding: 2%;
+}
+
+.div-ngfor {
+    margin: 0.5%;
+}
